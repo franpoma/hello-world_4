@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named DOC
+DOC/
+
+# ignore ALL .bat files
+*.bat
